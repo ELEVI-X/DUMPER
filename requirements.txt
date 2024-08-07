@@ -1,0 +1,5 @@
+mechanize
+requests
+futures
+httpx
+bs4
